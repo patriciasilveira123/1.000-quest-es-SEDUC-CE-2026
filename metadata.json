@@ -1,0 +1,8 @@
+{
+  "name": "Remix Caderno P1 SEDUC-CE 2026 — 200 Questões FUNECE",
+  "description": "Plataforma de estudo e simulado com 1.000 questões didáticas inéditas no padrão FUNECE/CEV-UECE para Conhecimentos Básicos (P1) do Concurso SEDUC/SEPLAG-CE 2026 (Edital nº 014/2026).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
